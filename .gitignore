@@ -1,0 +1,17 @@
+.idea
+.cache
+*__pycache__*
+.local/
+/target/
+
+pytest.ini
+.pytest_cache/
+*.egg-info/
+dist/
+
+pylint.html
+pylint-report-json
+pylint-output/
+pylint.d/
+
+Pipfile.lock

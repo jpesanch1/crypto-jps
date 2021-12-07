@@ -1,0 +1,8 @@
+setuptools~=57.0.0
+cryptography~=35.0.0
+PySimpleGUI~=4.55.1
+pyemv~=1.5.0
+secretpy~=0.12.0
+pyotp~=2.6.0
+psec~=1.1.0
+python-jose
